@@ -1,0 +1,15 @@
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\refint\MyApp.dll
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+C:\Users\bsi80131\OneDrive - PT. Berlian Sistem Informasi\Ikawati Basri\task posttest dotnet\MyApp\obj\Debug\net6.0\ref\MyApp.dll
